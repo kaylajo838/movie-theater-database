@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://mptwafel:kfJ9Q3UHsthx9dYs2P0awoW0ExA8IGkk@suleiman.db.elephantsql.com/mptwafel",
+            "name": "move-theater-database"
+        }
+    ]
+}
